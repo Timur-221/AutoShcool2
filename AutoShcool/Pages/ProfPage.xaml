@@ -24,11 +24,12 @@
             </Grid.ColumnDefinitions>
 
             <StackPanel Grid.Column="0" Margin="10">
-                <TextBlock Text="Name:" Margin="0 0 0 5" />
-                <TextBlock Text="Email:" Margin="0 0 0 5" />
-                <TextBlock Text="Phone:" Margin="0 0 0 5" />
-                <TextBlock Text="Course:" Margin="0 0 0 5" />
-                <TextBlock Text="Category:" Margin="0 0 0 5" />
+                <TextBlock Text="Образовательная организация:" Margin="0 0 0 5" />
+                <TextBlock Text="Имя:" Margin="0 0 0 5" />
+                <TextBlock Text="Фамилия:" Margin="0 0 0 5" />
+                <TextBlock Text="Отчество:" Margin="0 0 0 5" />
+                <TextBlock Text="Группа:" Margin="0 0 0 5" />
+                <TextBlock Text="Категория:" Margin="0 0 0 5" />
             </StackPanel>
 
             <StackPanel Grid.Column="1" Margin="10">

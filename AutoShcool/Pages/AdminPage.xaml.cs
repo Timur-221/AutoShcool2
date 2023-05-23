@@ -24,5 +24,10 @@ namespace AutoShcool.Pages
         {
             InitializeComponent();
         }
+
+        private void ExNav(object sender, MouseButtonEventArgs e)
+        {
+            NavigationService.Navigate(new AuthPage());
+        }
     }
 }

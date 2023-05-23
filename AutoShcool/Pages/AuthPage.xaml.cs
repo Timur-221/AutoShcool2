@@ -27,7 +27,7 @@ namespace AutoShcool.Pages
 
         private void LogNav(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new AccStud());
+            NavigationService.Navigate(new AdminPage());
         }
     }
 }
